@@ -164,7 +164,5 @@ $(document).ready(function($) {
 	OnePageNav();
 
 
-	alert('teste');
-
 });
 
