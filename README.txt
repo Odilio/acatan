@@ -1,8 +1,7 @@
-TITLE: Exclusivity - Free Bootstrap 4 Template
-AUTHOR: Free-Template.co
-LICENSE: Under Creative Commons 3.0 (free-template.co/license)
-Twitter: https://twitter.com/Free_Templateco
-
+TITLE: Associação dos Caminhoneiros de Tabuleiro do Norte
+AUTHOR: Odilio Noronha Filho
+LICENSE: 
+Twitter: https://twitter.com/odilionoronha
 
 CREDITS:
 
@@ -32,6 +31,3 @@ https://owlcarousel2.github.io/OwlCarousel2/
 
 AnimateNumber
 aishek.github.io/jquery-animateNumber/
-
-For More HTML5 Templates:
-https://themewagon.com
